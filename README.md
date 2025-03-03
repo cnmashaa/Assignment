@@ -1,4 +1,4 @@
-# Assignment
+# SE-DAY5-Technical-Writing
 SE-DAY5-Technical-Writing
 1.How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
  Understanding your audience's expertise level is crucial in presenting technical information. Tailoring your content to different audience types can be achieved by using clear and concise language, avoiding technical jargon, and providing explanations and examples.
